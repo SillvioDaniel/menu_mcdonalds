@@ -1,7 +1,7 @@
 # 🍔 Informações nutricionais para o cardápio do McDonald's
 
 #### Fonte de dados
-*[Informações nutricionais para o cardápio do McDonald's](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts) do Kaggle
+* [Informações nutricionais para o cardápio do McDonald's](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts) do Kaggle
 
 ##### Ferramentas utilizadas
 * **Python** para tratamento, limpeza e visualização de dados
