@@ -1,4 +1,4 @@
-# Informações nutricionais para o cardápio do McDonald's
+# 🍔 Informações nutricionais para o cardápio do McDonald's
 
 #### Fonte de dados
 *[Informações nutricionais para o cardápio do McDonald's](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts) do Kaggle
@@ -16,6 +16,6 @@
 
 [Notebook](menu.ipynb)
 
-#### País vencedores
-![Informações Nutricionais](img/info_nutri "Informações Nutricionais")   
+#### Calorias diárias recomendadas x Calorias McDonald's
+![Informações Nutricionais](img/recoxmc.jpg "Informações Nutricionais")   
 
